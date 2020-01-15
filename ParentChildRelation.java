@@ -11,7 +11,7 @@ public class ParentChildRelation {
 //		System.setProperty("webdriver.chrome.driver","C:\\Users\\Juno\\chromedriver.exe");
 //		WebDriver driver = new ChromeDriver();
 //		
-//	  String baseUrl = "https://www.spicejet.com";
+//	  String baseUrl = "https://www.spicejet.com";  sathya
 //	  // launch Fire fox and direct it to the Base URL
 //	  driver.get(baseUrl);
 //	  driver.findElement(By.id("ctl00_mainContent_ddl_originStation1_CTXT")).click();
