@@ -23,7 +23,7 @@ public class ParentChildRelation {
 		WebDriver driver2 = new FirefoxDriver();
 		
 		driver2.get("https://www.google.com/");
-		
+		//test
 		System.out.println(driver2.getCurrentUrl());
 		System.out.println(driver2.getPageSource());
 		driver2.get("https://www.yahoo.com/");
